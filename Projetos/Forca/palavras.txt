@@ -1,0 +1,8 @@
+programacao
+computador
+linguagem
+algoritmo
+funcoes
+variaveis
+ponteiros
+struct
